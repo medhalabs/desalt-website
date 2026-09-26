@@ -1,6 +1,6 @@
 export const site = {
-  name: "Desalt Encore Sheet Metal",
-  legalName: "Desalt Encore Sheet Metal Private Limited",
+  name: "Desalt Encore Sheetmetal",
+  legalName: "Desalt Encore Sheetmetal Private Limited",
   tagline: "Precision Fabrication. Reliable Support. One Team.",
   phone: "080-2955 5452",
   phoneHref: "tel:08029555452",

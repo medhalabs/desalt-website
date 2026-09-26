@@ -21,7 +21,7 @@ export default function About() {
           <p className="mt-5 text-base leading-relaxed text-gray-700">
             {site.legalName} is a Bengaluru-based company built on precision
             engineering and dependable service. We manufacture roofing,
-            cladding, and custom sheet metal products to exacting standards,
+            cladding, and custom sheetmetal products to exacting standards,
             while our IT, tech, and customer care teams keep operations
             running smoothly for the businesses we serve.
           </p>
@@ -57,7 +57,7 @@ export default function About() {
             />
             <Image
               src="/logo.png"
-              alt="Desalt Encore Sheet Metal logo"
+              alt="Desalt Encore Sheetmetal logo"
               width={220}
               height={150}
               className="relative h-auto w-44 sm:w-56"

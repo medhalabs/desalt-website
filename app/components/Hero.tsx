@@ -1,7 +1,7 @@
 import { site } from "../lib/site";
 
 const pillars = [
-  { label: "Sheet Metal Fabrication" },
+  { label: "Sheetmetal Fabrication" },
   { label: "IT Support" },
   { label: "Tech Support" },
   { label: "Customer Care" },
@@ -42,7 +42,7 @@ export default function Hero() {
           className="animate-fade-up text-balance max-w-4xl text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl"
           style={{ animationDelay: "80ms" }}
         >
-          Precision Sheet Metal.
+          Precision Sheetmetal.
           <br />
           <span className="bg-gradient-to-r from-brand-blue-700 to-brand-green-600 bg-clip-text text-transparent">
             Dependable Tech &amp; Customer Support.
@@ -53,7 +53,7 @@ export default function Hero() {
           className="animate-fade-up mt-6 max-w-2xl text-balance text-base leading-relaxed text-gray-600 sm:text-lg"
           style={{ animationDelay: "160ms" }}
         >
-          {site.legalName} delivers expert sheet metal fabrication alongside
+          {site.legalName} delivers expert sheetmetal fabrication alongside
           IT, tech, and customer care support — one trusted team for your
           manufacturing and operational needs.
         </p>

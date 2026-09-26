@@ -199,7 +199,7 @@ export default function Contact() {
                   <option value="" disabled>
                     Select a service
                   </option>
-                  <option>Sheet Metal Fabrication</option>
+                  <option>Sheetmetal Fabrication</option>
                   <option>IT Support</option>
                   <option>Tech Support</option>
                   <option>Customer Care Support</option>

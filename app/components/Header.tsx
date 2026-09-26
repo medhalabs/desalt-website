@@ -35,7 +35,7 @@ export default function Header() {
         <Link href="#top" className="flex items-center gap-3">
           <Image
             src="/logo.png"
-            alt="Desalt Encore Sheet Metal logo"
+            alt="Desalt Encore Sheetmetal logo"
             width={44}
             height={30}
             priority
@@ -46,7 +46,7 @@ export default function Header() {
               Desalt Encore
             </span>
             <span className="text-[10px] font-medium uppercase tracking-[0.18em] text-brand-green-600 sm:text-xs">
-              Sheet Metal Pvt. Ltd.
+              Sheetmetal Pvt. Ltd.
             </span>
           </span>
         </Link>

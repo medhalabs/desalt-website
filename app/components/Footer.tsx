@@ -18,7 +18,7 @@ export default function Footer() {
               <div className="rounded-xl bg-white p-1.5">
                 <Image
                   src="/logo.png"
-                  alt="Desalt Encore Sheet Metal logo"
+                  alt="Desalt Encore Sheetmetal logo"
                   width={36}
                   height={24}
                   className="h-7 w-auto"
@@ -29,7 +29,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-blue-100/70">
-              Precision sheet metal fabrication combined with dependable IT,
+              Precision sheetmetal fabrication combined with dependable IT,
               tech, and customer care support — one team you can rely on.
             </p>
           </div>

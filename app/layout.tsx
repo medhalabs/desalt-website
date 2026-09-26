@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Desalt Encore Sheet Metal Pvt. Ltd. | Fabrication, IT & Customer Support",
+  title: "Desalt Encore Sheetmetal Pvt. Ltd. | Fabrication, IT & Customer Support",
   description:
-    "Desalt Encore Sheet Metal Private Limited, Bengaluru — precision sheet metal fabrication (roofing, cladding, rainwater goods) plus IT support, tech support, and customer care services.",
+    "Desalt Encore Sheetmetal Private Limited, Bengaluru — precision sheetmetal fabrication (roofing, cladding, rainwater goods) plus IT support, tech support, and customer care services.",
   icons: {
     icon: "/logo.png",
   },

@@ -8,15 +8,15 @@ type Service = {
 
 const services: Service[] = [
   {
-    title: "Sheet Metal Fabrication",
+    title: "Sheetmetal Fabrication",
     description:
-      "End-to-end sheet metal manufacturing for roofing, cladding, and rainwater systems — engineered for precision and built to last.",
+      "End-to-end sheetmetal manufacturing for roofing, cladding, and rainwater systems — engineered for precision and built to last.",
     items: [
       "Roofing & flashings",
       "Cladding systems",
       "Fascia & gutter",
       "Rainwater goods & downpipes",
-      "Custom sheet metal work",
+      "Custom sheetmetal work",
     ],
     accent: "blue",
     icon: (

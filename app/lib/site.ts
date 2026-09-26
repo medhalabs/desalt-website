@@ -6,7 +6,7 @@ export const site = {
   phoneHref: "tel:08029555452",
   mobile: "+91 82777 04344",
   mobileHref: "tel:+918277704344",
-  email: "desaltencoresheetmetal@gmail.com",
+  email: "desaltencoresheetmetalpvtltd@desalt.co.in",
   gstin: "29AAFCD6853J1Z6",
   addressLines: [
     "No.1800/7, 8th Block,",

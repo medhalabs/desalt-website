@@ -74,6 +74,12 @@ export default function Hero() {
           >
             Call {site.phone}
           </a>
+          <a
+            href={site.mobile2Href}
+            className="rounded-full border border-gray-200 bg-white px-7 py-3.5 text-sm font-semibold text-gray-800 shadow-sm transition-all hover:-translate-y-0.5 hover:border-brand-green-500 hover:text-brand-green-700 hover:shadow-md"
+          >
+            Call {site.mobile2}
+          </a>
         </div>
 
         <div

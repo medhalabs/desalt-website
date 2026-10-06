@@ -70,6 +70,12 @@ export default function Header() {
           >
             Call {site.phone}
           </a>
+          <a
+            href={site.mobile2Href}
+            className="rounded-full bg-brand-blue-800 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-brand-blue-700 hover:shadow-md"
+          >
+            Call {site.mobile2}
+          </a>
         </div>
 
         <button
@@ -123,6 +129,12 @@ export default function Header() {
               className="mt-2 rounded-full bg-brand-blue-800 px-5 py-2.5 text-center text-sm font-semibold text-white"
             >
               Call {site.phone}
+            </a>
+            <a
+              href={site.mobile2Href}
+              className="mt-2 rounded-full bg-brand-blue-800 px-5 py-2.5 text-center text-sm font-semibold text-white"
+            >
+              Call {site.mobile2}
             </a>
           </nav>
         </div>

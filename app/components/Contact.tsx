@@ -17,7 +17,7 @@ const infoCards = [
   },
   {
     label: "Call Us",
-    lines: [site.phone, site.mobile],
+    lines: [site.phone, site.mobile, site.mobile2],
     href: site.phoneHref,
     icon: (
       <path

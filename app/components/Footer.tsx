@@ -76,14 +76,6 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={site.mobile2Href}
-                  className="transition-colors hover:text-brand-green-500"
-                >
-                  {site.mobile2}
-                </a>
-              </li>
-              <li>
-                <a
                   href={`mailto:${site.email}`}
                   className="transition-colors hover:text-brand-green-500"
                 >

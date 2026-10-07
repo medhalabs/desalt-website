@@ -71,10 +71,10 @@ export default function Header() {
             Call {site.phone}
           </a>
           <a
-            href={site.mobile2Href}
+            href={site.mobileHref}
             className="rounded-full bg-brand-blue-800 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-brand-blue-700 hover:shadow-md"
           >
-            Call {site.mobile2}
+            Call {site.mobile}
           </a>
         </div>
 
@@ -131,10 +131,10 @@ export default function Header() {
               Call {site.phone}
             </a>
             <a
-              href={site.mobile2Href}
+              href={site.mobileHref}
               className="mt-2 rounded-full bg-brand-blue-800 px-5 py-2.5 text-center text-sm font-semibold text-white"
             >
-              Call {site.mobile2}
+              Call {site.mobile}
             </a>
           </nav>
         </div>
